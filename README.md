@@ -10,7 +10,7 @@ I have been translating what a business actually needs into modular, declarative
 
 You can read more about what I do at [ChristophDorn.com](https://christophdorn.com) and find my resume at [linkedin.com/in/ChristophDorn](https://www.linkedin.com/in/christophdorn/).
 
-## Perspective
+## My Perspective
 
 I am fascinated by declarative composition and layered indirection for the purpose of binding components into systems.
 
