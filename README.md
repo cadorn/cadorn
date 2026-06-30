@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi my name is Christoph and I have been passionately coding since I was 10 years old.
+
+
+
 
 <!--
 **cadorn/cadorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
