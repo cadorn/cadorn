@@ -8,7 +8,7 @@ I am a passionate technical leader working as Principal Architech / Engineer and
 
 I have been translating what a business actually needs into modular, declaratively-composed systems a small team can ship fast and keep evolving without rewrites for 25 years. 
 
-You can read more about what I do at [ChristophDorn.com](https://christophdorn.com) and find my resume at [linkedin.com/in/christophdorn/](https://www.linkedin.com/in/christophdorn/).
+You can read more about what I do at [ChristophDorn.com](https://christophdorn.com) and find my resume at [linkedin.com/in/ChristophDorn](https://www.linkedin.com/in/christophdorn/).
 
 ## Perspective
 
