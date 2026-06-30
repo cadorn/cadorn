@@ -4,11 +4,11 @@ You have found my home on github where I share my open source work.
 
 ## Professional Work
 
-I am a passionate technical leader working a Principal Architech / Engineer and love sitting at the intersection of product and engineering as I am able to instantly model requirements and execution reality in my mind. 
+I am a passionate technical leader working as Principal Architech / Engineer and love sitting at the intersection of product and engineering as I am able to instantly model requirements and execution reality in my mind. 
 
 I have been translating what a business actually needs into modular, declaratively-composed systems a small team can ship fast and keep evolving without rewrites for 25 years. 
 
-You can read more about what I do at: [ChristophDorn.com](https://christophdorn.com)
+You can read more about what I do at [ChristophDorn.com](https://christophdorn.com) and find my resume at [linkedin.com/in/christophdorn/]](https://www.linkedin.com/in/christophdorn/).
 
 ## Perspective
 
