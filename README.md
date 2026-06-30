@@ -18,7 +18,7 @@ Similar to how *kubernetes binds service*s and *terraform binds infrastructure* 
 
 I dislike how current JavaScript codebases imperatively bind functionality and believe we can do better by structuring toolchains to link reusable components using configuration.
 
-I have been working on how to compose systems from components at every layer of the vertical stack. A component based approach promises real advantages especially now that we have AI co-workers that need strict boundaries.
+I have been working on how to compose systems from components at every layer of the vertical stack. A linked component based approach promises real advantages especially now that we have AI co-workers that need strict boundaries.
 
 ### Current Work
 
@@ -26,7 +26,7 @@ I have been working on how to compose systems from components at every layer of 
 
 The **Terminal44 Workspace Foundation** ([Stream44/t44](https://github.com/Stream44/t44)) leverages encapsulate to implement a developer workspace that holds adapters for third party services and projects and allows for developing applications by binding components. Once an adapter is written it can be re-used across applications leading to rapid application development.
 
-I have been using this toolchain to build all my internal projects and deploy them to the cloud. When applications are implemented using encpasulate one can visualize the structure and execution path automatically. I am working on **Framespece Genesis** ([Stream44/FramespaceGenesis](https://github.com/Stream44/FramespaceGenesis)) to demonstrate how this can work. You can find a demo at [demo.framespace.dev/](https://demo.framespace.dev/).
+I have been using this toolchain to build all my internal projects and deploy them to the cloud. When applications are implemented using encpasulate one can visualize the structure and execution path automatically. I am working on **Framespece Genesis** ([Stream44/FramespaceGenesis](https://github.com/Stream44/FramespaceGenesis)) to demonstrate how this can work. You can find a demo at [demo.framespace.dev](https://demo.framespace.dev/).
 
 ### Early Experiments
 
