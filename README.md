@@ -22,33 +22,31 @@ I have been working on how to compose systems from components at every layer of 
 
 ### Current Work
 
-**Encapsulate** ([stream44/encapsulate](https://github.com/stream44/encapsulate)) is a library to build systems from components that can be individually deployed and are self reporting. It enforces internal boundaries in TypeScript applications allowing for rapid development with AI with full structural and execution insight. Systems become sandboxed processing nodes that load into declared graph structured runtime architectures.
+**Encapsulate** ([github.com/stream44/encapsulate](https://github.com/stream44/encapsulate)) is a library to build systems from components that can be individually deployed and are self reporting. It enforces internal boundaries in TypeScript applications allowing for rapid development with AI with full structural and execution insight. Systems become sandboxed processing nodes that load into declared graph structured runtime architectures.
 
-The **Terminal44 Workspace Foundation** ([Stream44/t44](https://github.com/Stream44/t44)) leverages encapsulate to implement a developer workspace that holds adapters for third party services and projects and allows for developing applications by binding components. Once an adapter is written it can be re-used across applications leading to rapid application development.
+The **Terminal44 Workspace Foundation** ([github.com/Stream44/t44](https://github.com/Stream44/t44)) leverages encapsulate to implement a developer workspace that holds adapters for third party services and projects and allows for developing applications by binding components. Once an adapter is written it can be re-used across applications leading to rapid application development.
 
-I have been using this toolchain to build all my internal projects and deploy them to the cloud. When applications are implemented using encpasulate one can visualize the structure and execution path automatically. I am working on **Framespece Genesis** ([Stream44/FramespaceGenesis](https://github.com/Stream44/FramespaceGenesis)) to demonstrate how this can work. You can find a demo at [demo.framespace.dev](https://demo.framespace.dev/).
+I have been using this toolchain to build all my internal projects and deploy them to the cloud. When applications are implemented using encpasulate one can visualize the structure and execution path automatically. I am working on **Framespece Genesis** ([github.com/Stream44/FramespaceGenesis](https://github.com/Stream44/FramespaceGenesis)) to demonstrate how this can work. You can find a demo at [demo.framespace.dev](https://demo.framespace.dev/).
 
-### Early Experiments
+### Recent Experiments
 
+- **The Reflexive Algebraic Kernel** ([github.com/Stream44/s44-rak-gen1](https://github.com/Stream44/s44-rak-gen1)) - An AI coded project to compose applications from declared semantic models. It is a content-addressed, algebraically-composable runtime for Stratified Homoiconic systems ([PAPER](https://github.com/Stream44/s44-rak-gen1/blob/main/PAPER.md)).
 
+### Early Experiments & Work
 
+- **Zero System** ([github.com/LogicCores/0](https://github.com/LogicCores/0)) An opinionated ccjson based minimal primitive-component-based development and runtime system template for declarative JavaScript front- and NodeJS back-ends that deploys and automatically tests itself.
 
+- **ccjson: Canonical Contractual JSON** ([github.com/ccjson/ccjson.nodejs](https://github.com/ccjson/ccjson.nodejs)) ccsjon is a sax-style parser and ordered resolver for JSON that adds a thin layer of entities, inheritance and relationships animated by declared JavaScript module implementations.
 
+- **cvdom: Conditional virtual-dom templates** ([github.com/firewidgets/cvdom](https://github.com/firewidgets/cvdom)) Conditional virtual-dom templates to inject data and repeat/skip sections as the template renders by calling `h`. We splice in our own controller called `ch` which is required at runtime just like `h`.
 
+- **Dynamic & embeddable console widget** ([github.com/fireconsole/fireconsole.rep.js](https://github.com/fireconsole/fireconsole.rep.js)) - Initial implementation of a dynamic console widget leveraging the JavaScript Bundle Loader to load all program components.
 
+- **JavaScript Bundle Loader** ([github.com/pinf/pinf-loader-js](https://github.com/pinf/pinf-loader-js)) - A CommonJS package mappings based JavaScript module loader for the browser.
 
+- **WebRTC Demo for jQuery Conference Portland 2013** ([github.com/cadorn/pres-jqueryconf-2013](https://github.com/cadorn/pres-jqueryconf-2013)) - Simple demos and annotated source code of how WebRTC works.
 
-<!--
-**cadorn/cadorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Xdebug client for JavaScript** ([github.com/jasny/lib-phpdebug-js](https://github.com/jasny/lib-phpdebug-js)) - Xdebug (PHP Debugger) client written in JavaScript and originally used by [Cloud9 IDE](https://en.wikipedia.org/wiki/Cloud9_IDE) which is now [AWS Cloud9](https://aws.amazon.com/cloud9/).
 
-Here are some ideas to get you started:
+- **FirePHP** ([github.com/firephp](https://github.com/firephp)) - A PHP debugging tool that enables you to log to your Mozilla Firebug Console using a simple PHP method call. Ideally suited for AJAX development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
