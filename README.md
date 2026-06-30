@@ -4,7 +4,7 @@ You have found my home on github where I share my open source work.
 
 ## Professional Work
 
-I am a passionate technical leader working as Principal Architech / Engineer and love sitting at the intersection of product and engineering as I am able to instantly model requirements and execution reality in my mind. 
+I am a passionate technical leader working as Principal Architect / Engineer and love sitting at the intersection of product and engineering as I am able to instantly model requirements and execution reality in my mind. 
 
 I have been translating what a business actually needs into modular, declaratively-composed systems a small team can ship fast and keep evolving without rewrites for 25 years. 
 
