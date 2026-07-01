@@ -22,7 +22,7 @@ I dislike how current JavaScript codebases imperatively bind functionality and b
 
 I have been working on how to compose systems from components at every layer of the vertical stack. A linked component based approach promises real advantages especially now that we have AI co-workers that need strict boundaries.
 
-### Current Work
+### Current Open Source Work
 
 **Encapsulate** ([github.com/stream44/encapsulate](https://github.com/stream44/encapsulate)) is a library to build systems from components that can be individually deployed and are self reporting. It enforces internal boundaries in TypeScript applications allowing for rapid development with AI with full structural and execution insight. Systems become sandboxed processing nodes that load into declared graph structured runtime architectures.
 
