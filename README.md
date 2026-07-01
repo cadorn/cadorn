@@ -34,7 +34,7 @@ I have been using this toolchain to build all my internal projects and deploy th
 
 - **The Reflexive Algebraic Kernel** ([github.com/Stream44/s44-rak-gen1](https://github.com/Stream44/s44-rak-gen1)) - An AI coded project to compose applications from declared semantic models. It is a content-addressed, algebraically-composable runtime for Stratified Homoiconic systems ([PAPER](https://github.com/Stream44/s44-rak-gen1/blob/main/PAPER.md)).
 
-### Early Experiments & Work
+### Earlier Experiments & Work
 
 - **codeblock.js: Code Block support for JavaScript** ([github.com/Stream44/codeblock.js](https://github.com/Stream44/codeblock.js)) - Adds Code Block support to JavaScript. A codeblock is source code of some kind, wrapped in a syntax that specifies boundaries (LANGUAGE (ARG) >>>CODE<<<) and variables %%%ARG%%% to be replaced.
 
