@@ -22,7 +22,7 @@ I dislike how current JavaScript codebases imperatively bind functionality and b
 
 I have been working on how to compose systems from components at every layer of the vertical stack. A linked component based approach promises real advantages especially now that we have AI co-workers that need strict boundaries.
 
-### Current Open Source Work
+### Current Open Source Experiments
 
 **Encapsulate** ([github.com/stream44/encapsulate](https://github.com/stream44/encapsulate)) is a library to build systems from components that can be individually deployed and are self reporting. It enforces internal boundaries in TypeScript applications allowing for rapid development with AI with full structural and execution insight. Systems become sandboxed processing nodes that load into declared graph structured runtime architectures.
 
@@ -36,7 +36,7 @@ I have been using this toolchain to build all my internal projects and deploy th
 
 - **The Reflexive Algebraic Kernel** ([github.com/Stream44/s44-rak-gen1](https://github.com/Stream44/s44-rak-gen1)) - An AI coded project to compose applications from declared semantic models. It is a content-addressed, algebraically-composable runtime for Stratified Homoiconic systems ([PAPER](https://github.com/Stream44/s44-rak-gen1/blob/main/PAPER.md)).
 
-### Earlier Experiments & Work
+### Earlier Experiments
 
 - **codeblock.js: Code Block support for JavaScript** ([github.com/Stream44/codeblock.js](https://github.com/Stream44/codeblock.js)) - Adds Code Block support to JavaScript. A codeblock is source code of some kind, wrapped in a syntax that specifies boundaries (LANGUAGE (ARG) >>>CODE<<<) and variables %%%ARG%%% to be replaced.
 
