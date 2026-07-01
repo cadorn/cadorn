@@ -30,6 +30,8 @@ The **Terminal44 Workspace Foundation** ([github.com/Stream44/t44](https://githu
 
 I have been using this toolchain to build all my internal projects and deploy them to the cloud. When applications are implemented using encpasulate one can visualize the structure and execution path automatically. I am working on **Framespece Genesis** ([github.com/Stream44/FramespaceGenesis](https://github.com/Stream44/FramespaceGenesis)) to demonstrate how this can work. You can find a demo at [demo.framespace.dev](https://demo.framespace.dev/).
 
+<img width="600" alt="Framespece Genesis UI" src="https://github.com/user-attachments/assets/c4f94a97-f03c-4ed9-9a2b-40bf24ee0ba7" />
+
 ### Recent Experiments
 
 - **The Reflexive Algebraic Kernel** ([github.com/Stream44/s44-rak-gen1](https://github.com/Stream44/s44-rak-gen1)) - An AI coded project to compose applications from declared semantic models. It is a content-addressed, algebraically-composable runtime for Stratified Homoiconic systems ([PAPER](https://github.com/Stream44/s44-rak-gen1/blob/main/PAPER.md)).
