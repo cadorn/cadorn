@@ -6,7 +6,9 @@ You have found my home on github where I share my open source work.
 
 I am a passionate technical leader working as Principal Architect / Engineer and love sitting at the intersection of product and engineering as I am able to instantly model requirements and execution reality in my mind. 
 
-I have been translating what a business actually needs into modular, declaratively-composed systems a small team can ship fast and keep evolving without rewrites for 25 years. 
+I have been translating what a business actually needs into modular, declaratively-composed systems a small team can ship fast and keep evolving without rewrites for 25 years.
+
+My broad experience and passion for building processes and products allows me to lead projects in complex environments while making it enjoyable and a continuous learning experience for everyone I interact with.
 
 You can read more about what I do at [ChristophDorn.com](https://christophdorn.com) and find my resume at [linkedin.com/in/ChristophDorn](https://www.linkedin.com/in/christophdorn/).
 
