@@ -36,11 +36,19 @@ I have been using this toolchain to build all my internal projects and deploy th
 
 ### Early Experiments & Work
 
-- **Zero System** ([github.com/LogicCores/0](https://github.com/LogicCores/0)) An opinionated ccjson based minimal primitive-component-based development and runtime system template for declarative JavaScript front- and NodeJS back-ends that deploys and automatically tests itself.
+- **codeblock.js: Code Block support for JavaScript** ([github.com/Stream44/codeblock.js](https://github.com/Stream44/codeblock.js)) - Adds Code Block support to JavaScript. A codeblock is source code of some kind, wrapped in a syntax that specifies boundaries (LANGUAGE (ARG) >>>CODE<<<) and variables %%%ARG%%% to be replaced.
 
-- **ccjson: Canonical Contractual JSON** ([github.com/ccjson/ccjson.nodejs](https://github.com/ccjson/ccjson.nodejs)) ccsjon is a sax-style parser and ordered resolver for JSON that adds a thin layer of entities, inheritance and relationships animated by declared JavaScript module implementations.
+- **inf: Component bootstrapping & interface system for NodeJS** ([github.com/pinf-it/inf](https://github.com/pinf-it/inf)) - inf allows for the expansion of many aspects from a singular structure to externalized entities and the reverse contraction as well as the instantiation of a singular structure from multiple perspectives in source and optimized form.
 
-- **cvdom: Conditional virtual-dom templates** ([github.com/firewidgets/cvdom](https://github.com/firewidgets/cvdom)) Conditional virtual-dom templates to inject data and repeat/skip sections as the template renders by calling `h`. We splice in our own controller called `ch` which is required at runtime just like `h`.
+- **jsonrep: Present JSON documents beautifully and easily!** ([github.com/jsonrep/jsonrep](https://github.com/jsonrep/jsonrep)) - jsonrep is a JavaScript library for use in the Browser and on the Server (for pre-compiling) to mark up JSON Documents for Visualization and Interaction using JavaScript Representations (rep[s]).
+
+- **ORTC (Object API for RTC) - Mobile, Server, Web** ([github.com/openpeer/ortc](https://github.com/openpeer/ortc)) - Contributed to the first draft of the ORTC API by validating specification through implementation.
+
+- **Zero System** ([github.com/LogicCores/0](https://github.com/LogicCores/0)) - An opinionated ccjson based minimal primitive-component-based development and runtime system template for declarative JavaScript front- and NodeJS back-ends that deploys and automatically tests itself.
+
+- **ccjson: Canonical Contractual JSON** ([github.com/ccjson/ccjson.nodejs](https://github.com/ccjson/ccjson.nodejs)) - ccsjon is a sax-style parser and ordered resolver for JSON that adds a thin layer of entities, inheritance and relationships animated by declared JavaScript module implementations.
+
+- **cvdom: Conditional virtual-dom templates** ([github.com/firewidgets/cvdom](https://github.com/firewidgets/cvdom)) - Conditional virtual-dom templates to inject data and repeat/skip sections as the template renders by calling `h`. We splice in our own controller called `ch` which is required at runtime just like `h`.
 
 - **Dynamic & embeddable console widget** ([github.com/fireconsole/fireconsole.rep.js](https://github.com/fireconsole/fireconsole.rep.js)) - Initial implementation of a dynamic console widget leveraging the JavaScript Bundle Loader to load all program components.
 
